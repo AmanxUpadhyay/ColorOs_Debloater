@@ -1,45 +1,45 @@
-This is a De-bloater script for ColorOs 7.0 and newer versions.
+## This is a De-bloater script for ColorOs 7.0 and newer versions.
 
-This script will automatically uninstall following dependencies:
-    - com.coloros.oppopods
-    - com.google.android.apps.tachyon
-    - com.facebook.katana
-    - com.google.android.apps.youtube.music
-    - com.google.android.apps.docs
-    - com.google.android.apps.magazines
-    - com.google.android.videos
-    - com.android.chrome
-    - com.google.android.youtube
-    - com.google.android.calendar
-    - com.google.android.apps.work.oobconfig
-    - com.google.android.keep
-    - com.ted.number
-    - com.coloros.childrenspace
-    - com.oppo.usercenter
-    - com.coloros.securitykeyboard
-    - com.coloros.backuprestore
-    - com.coloros.activation
-    - com.oppo.sos
-    - com.oppo.operationManual
-    - com.heytap.browser
-    - com.facebook.system
-    - com.facebook.appmanager
-    - com.facebook.services
-    - com.heytap.cloud
-    - com.coloros.musiclink
-    - com.coloros.operationtips
-    - com.coloros.logkit
-    - com.heytap.music
-    - com.coloros.video
-    - com.redteamobile.roaming
-    - com.heytap.market
-    - com.heytap.usercenter
-    - com.oppo.quicksearchbox
-    - com.coloros.compass2
-    - com.caf.fmradio
-    - com.coloros.weather2
-    - com.coloros.soundrecorder
-    - com.coloros.phonemanager
-    - com.heytap.market
-    - com.coloros.compass2
-    - com.coloros.assistantscreen
+***This script will automatically uninstall following dependencies:***
+- com.coloros.oppopods
+- com.google.android.apps.tachyon
+- com.facebook.katana
+- com.google.android.apps.youtube.music
+- com.google.android.apps.docs
+- com.google.android.apps.magazines
+- com.google.android.videos
+- com.android.chrome
+- com.google.android.youtube
+- com.google.android.calendar
+- com.google.android.apps.work.oobconfig
+- com.google.android.keep
+- com.ted.number
+- com.coloros.childrenspace
+- com.oppo.usercenter
+- com.coloros.securitykeyboard
+- com.coloros.backuprestore
+- com.coloros.activation
+- com.oppo.sos
+- com.oppo.operationManual
+- com.heytap.browser
+- com.facebook.system
+- com.facebook.appmanager
+- com.facebook.services
+- com.heytap.cloud
+- com.coloros.musiclink
+- com.coloros.operationtips
+- com.coloros.logkit
+- com.heytap.music
+- com.coloros.video
+- com.redteamobile.roaming
+- com.heytap.market
+- com.heytap.usercenter
+- com.oppo.quicksearchbox
+- com.coloros.compass2
+- com.caf.fmradio
+- com.coloros.weather2
+- com.coloros.soundrecorder
+- com.coloros.phonemanager
+- com.heytap.market
+- com.coloros.compass2
+- com.coloros.assistantscreen
